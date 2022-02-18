@@ -1,3 +1,4 @@
+> Forked from [react-diff-viewer](https://github.com/praneshr/react-diff-viewer)(3.1.1), fixed some issues and republished as `react-diff-viewer-patch`. Just replace following `react-diff-viewer` with `react-diff-viewer-patch`.
 
 <p align="center">
   <img src='https://i.ibb.co/DKrGhVQ/Frame-1-1.png' width="100%" alt='React Diff Viewer' />

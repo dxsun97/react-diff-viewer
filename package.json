@@ -1,5 +1,5 @@
 {
-	"name": "react-diff-viewer",
+	"name": "react-diff-viewer-patch",
 	"version": "3.1.1",
 	"private": false,
 	"description": "A simple and beautiful text diff viewer component made with diff and React",
@@ -13,9 +13,10 @@
 		"react-component",
 		"ui"
 	],
-	"repository": "git@github.com:praneshr/react-diff-viewer.git",
+	"repository": "git@github.com:dxsun97/react-diff-viewer.git",
 	"license": "MIT",
 	"author": "Pranesh Ravi<praneshpranesh@gmail.com>",
+	"contributors": ["Winter Sun (https://github.com/dxsun97)"],
 	"main": "lib/index",
 	"typings": "lib/index",
 	"scripts": {
