@@ -504,7 +504,7 @@ class DiffViewer extends React.Component<
 						!this.state.expandedBlocks.includes(diffBlockStart)
 					) {
 						skippedLines.push(i + 1);
-						if (i === lineInformation.length - 1 && skippedLines.length > 1) {
+						if (i === lineInformation.length - 1 && skippedLines.length > 0) {
 							return this.renderSkippedLineIndicator(
 								skippedLines.length,
 								diffBlockStart,
